@@ -1,0 +1,21 @@
+{
+  "name": "repoUpdater",
+  "description": "A simple tool to batch update the git repos in the current folder",
+  "homepage": "https://github.com/wangrq/repoUpdater",
+  "repository": "github:wangrq/repoUpdater",
+  "keywords": [
+    "repo updater",
+    "git repo",
+    "update"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "Renquan Wang <wangrqt196@gmail.com>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
