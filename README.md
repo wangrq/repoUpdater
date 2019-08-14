@@ -6,7 +6,7 @@ It's used to fetch the latest updates from remote git repos, and merge them to y
 Internally it will iterate all the sub folders that contains ".git" in the current working directory, navigate to each of these folders and call "**git pull origin master**".
 
 <p align='center'>
-<img src="https://github.com/wangrq/repoUpdater/raw/master/example.svg" width='767' alt='example image'/>
+<img src="https://github.com/wangrq/repoUpdater/blob/master/example.svg" width='767' alt='example image'/>
 </p>
 
 ## Usage
